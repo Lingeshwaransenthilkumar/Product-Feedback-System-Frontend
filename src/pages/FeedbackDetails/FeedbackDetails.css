@@ -130,4 +130,8 @@
   .add-comment-form{
     flex-direction: column;
   }
+  .reply-form{
+    flex-direction: column;
+  }
 }
+
